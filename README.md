@@ -12,11 +12,11 @@ Project: https://github.com/progrium/dokku
 ```shell
 # on 0.3.x
 cd /var/lib/dokku/plugins
-git clone https://github.com/ohardy/dokku-volume.git volume
+git clone https://github.com/marchon/dokku-volume.git volume
 dokku plugins-install
 
 # on 0.4.x
-dokku plugin:install https://github.com/ohardy/dokku-volume.git volume
+dokku plugin:install https://github.com/marchon/dokku-volume.git volume
 ```
 
 ## commands
